@@ -1,0 +1,24 @@
+
+======================================================================
+  ANALYSE DE GROUPE (7 pays)
+======================================================================
+
+  STATISTIQUES GLOBALES
+   • Nombre de pays analysés : 7
+   • Population totale : 354 507 823 habitants
+   • Taux de mortalité moyen : 2,596.4 décès/million
+   • Taux médian : 2,562.1 décès/million
+
+  DISTRIBUTION
+   • Taux minimum : 1,308.7 décès/million
+   • Taux maximum : 3,438.2 décès/million
+   • Écart-type : 687.4 décès/million
+
+  PAYS ANALYSÉS
+   • France, Germany, Italy, Spain, United Kingdom, Belgium, Netherlands
+  CONTEXTE
+   L'écart-type de 687.4 indique une variation 
+   modérée 
+   entre les pays du groupe.
+
+======================================================================

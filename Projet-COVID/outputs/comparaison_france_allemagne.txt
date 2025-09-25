@@ -1,0 +1,25 @@
+
+======================================================================
+  RAPPORT COMPARATIF
+   France vs Germany
+======================================================================
+
+  TAUX DE MORTALITÉ
+   • France : 2,478.7 décès/million
+   • Germany : 2,098.8 décès/million
+
+  DIFFÉRENCES
+   • Différence absolue : +379.9 décès/million
+   • Différence relative : +18.1%
+
+  ANALYSE
+   • Meilleur résultat : Germany
+   • Avantage : 379.9 décès/million en moins
+
+  INTERPRÉTATION
+   Le taux de mortalité de France est 
+   18.1% 
+   plus élevé 
+   que celui de Germany.
+
+======================================================================

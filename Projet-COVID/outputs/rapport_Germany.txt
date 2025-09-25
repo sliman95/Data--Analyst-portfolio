@@ -1,0 +1,21 @@
+
+============================================================
+  RAPPORT DÉTAILLÉ - GERMANY
+============================================================
+
+  DONNÉES DÉMOGRAPHIQUES
+   • Population totale : 83 369 840 habitants
+   • Décès COVID totaux : 174 979
+   • Cas COVID totaux : 38 437 756
+
+  ANALYSE STATISTIQUE
+   • Taux de mortalité : 2,098.8 décès par million d'habitants
+   • Ratio : 1 décès pour 476 habitants
+
+  PERSPECTIVE
+   Ce taux signifie qu'en Germany, environ 2 personnes 
+   sur 1000 sont décédées du COVID-19 depuis le début de la pandémie.
+
+============================================================
+  Rapport généré le 25/09/2025 à 16:43
+============================================================

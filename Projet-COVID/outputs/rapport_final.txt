@@ -1,0 +1,23 @@
+
+======================================================================
+  RAPPORT FINAL - ANALYSE COVID-19 EUROPE
+======================================================================
+
+  SYNTHÈSE
+   • Pays analysés : 7
+   • Données source : Our World in Data
+   • Période : Données les plus récentes disponibles
+
+  CONCLUSION
+   Cette analyse démontre les variations significatives des taux de mortalité
+   COVID-19 entre les pays européens, mettant en lumière l'importance des
+   comparaisons standardisées pour une analyse épidémiologique rigoureuse.
+
+  MÉTHODOLOGIE
+   • Taux calculés par million d'habitants
+   • Données standardisées pour une comparaison équitable
+   • Analyse statistique descriptive complète
+
+======================================================================
+  Analyse réalisée le 25/09/2025 à 16:47
+======================================================================

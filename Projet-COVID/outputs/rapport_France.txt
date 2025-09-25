@@ -1,0 +1,21 @@
+
+============================================================
+  RAPPORT DÉTAILLÉ - FRANCE
+============================================================
+
+  DONNÉES DÉMOGRAPHIQUES
+   • Population totale : 67 813 000 habitants
+   • Décès COVID totaux : 168 091
+   • Cas COVID totaux : 38 997 490
+
+  ANALYSE STATISTIQUE
+   • Taux de mortalité : 2,478.7 décès par million d'habitants
+   • Ratio : 1 décès pour 403 habitants
+
+  PERSPECTIVE
+   Ce taux signifie qu'en France, environ 2 personnes 
+   sur 1000 sont décédées du COVID-19 depuis le début de la pandémie.
+
+============================================================
+  Rapport généré le 25/09/2025 à 16:43
+============================================================
