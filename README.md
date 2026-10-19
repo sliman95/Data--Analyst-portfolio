@@ -3,7 +3,7 @@
 > "Transformer les données en impact social" - Spécialisé dans l'analyse de données humanitaires et les ODD
 
 ## 🔍 À Propos
-Diplômé en Systèmes Informatiques et Logiciels de **Érasme Universite Africaine de Technologie et de Management**, je me reconvertis dans l'analyse de données avec une spécialisation dans le secteur humanitaire. Mon objectif : utiliser la data pour optimiser l'impact des programmes sociaux.
+Diplômé en Systèmes Informatiques et Logiciels de **Universite Africaine de Technologie et de Management**, je me spécialise dans l'analyse de données avec une spécialisation dans le secteur commercial et humanitaire. Mon objectif : utiliser la data pour optimiser l'impact des programmes sociaux.
 
 ## 🛠️ Compétences Techniques
 - **Data** : SQL, Python (Pandas, Scikit-learn), Statistiques
